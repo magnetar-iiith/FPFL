@@ -1,6 +1,7 @@
 # Fair and Private Federated Learning (FPFL)
 
 This is the project page for our ICONIP 2021 paper titled "Federated Learning Meets Fairness and Differential Privacy".
+
 Authors: Manisha Padala, Sankarshan Damle and Sujit Prakash Gujar
 
 ## TL;DR
