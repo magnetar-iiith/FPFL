@@ -3,7 +3,7 @@
 ## TL;DR
 We propose FPFL: the first Federated Learning (FL) training framework that is simultaneously fair and differentially private. By decoupling the training process into two phases (one to achieve fairness and one for privacy), FPFL preserve's the privacy of both the training data and the sensitive attribute.
 
-![Alt text](relative%20fpfl.jpg?raw=true "FPFL Schematic")
+![Alt text](fpfl.jpg?raw=true "FPFL Schematic")
 
 
 ## Citation
